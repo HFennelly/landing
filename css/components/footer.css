@@ -1,0 +1,21 @@
+#footer {
+  padding: 20px;
+  background-color: rgb(31, 31, 31);
+  color:rgb(97, 196, 132);
+  text-align: center;
+  font-size: 30px;
+}
+
+#footer p {
+  font-size: 14px;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0px;
+}

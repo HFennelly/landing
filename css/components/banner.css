@@ -1,0 +1,10 @@
+.banner {
+  height: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 10px;
+}
